@@ -7,20 +7,16 @@ Use following structure to quote code, and specify the language after the first 
 Bash:
 
 ```bash
-
 #/bin/bash
 cd my-app
-
 ```
 
-Python: 
+Python:
 
 ```python
-
 import numpy as np
 
 i = 2
-
 ```
 
 ## Quoting Text
@@ -28,9 +24,7 @@ i = 2
 > text:
 
 ```markup
-
 > text
-
 ```
 
 ## Basic Styling
@@ -40,9 +34,7 @@ Basic styling is combinable.
 **Bold**:
 
 ```markup
-
 **text**
-
 ```
 
 *Italic*:
@@ -54,7 +46,5 @@ Basic styling is combinable.
 ~~Strikethrough~~ (delete line):
 
 ```markup
-
 ~~text~~
-
 ```
