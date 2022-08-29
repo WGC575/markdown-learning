@@ -48,3 +48,13 @@ Basic styling is combinable.
 ```markup
 ~~text~~
 ```
+
+## List
+
+### Bullet Points
+
+Use "-"
+
+- George Washington
+- John Adams
+- Thomas Jefferson
