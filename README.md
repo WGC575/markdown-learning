@@ -19,6 +19,18 @@ import numpy as np
 i = 2
 ```
 
+Also,
+
+```HTML
+ <code> this.a </code> 
+ ```
+
+can be used for inline code blocks, but not recommended due to format inconsistency. Instead, we may use a markup-style one, by:
+
+```html
+`your code`
+ ```
+
 ## Quoting Text
 
 > text:
