@@ -79,6 +79,6 @@ Using additional spaces before "-" will create further indentations.
 
 ## Adding Pictures
 
-![fig_15](./figures/fig_15.png)
+![fig_1](./figures/fig_1.png)
 
 By adding "-" before figures will also indent them.
