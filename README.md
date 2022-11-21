@@ -58,3 +58,15 @@ Use "-"
 - George Washington
 - John Adams
 - Thomas Jefferson
+
+Using additional spaces before "-" will create further indentations.
+
+- Tier 1
+  - Tier 2
+    -Tier 3
+
+## Adding Pictures
+
+![fig_15](./figures/fig_15.png)
+
+By adding "-" before figures will also indent them.
