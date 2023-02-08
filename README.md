@@ -82,3 +82,25 @@ Using additional spaces before "-" will create further indentations.
 ![fig_1](./figures/fig_1.png)
 
 By adding "-" before figures will also indent them.
+
+## Links
+
+Basically, the links look like \[Linked text in this file\]{the actual URL to the link destination}.
+
+- Links to sections: \[Links\](directory#section). E.g. [Links](./README.md#links)
+
+## Footnotes
+
+Footnotes are basically similar to general links except that there is a "^" in the bracket.
+
+For example, here's a simple footnote,[^1] and here's a longer one.[^bignote].
+
+[^1]: Footnotes.
+
+[^bignote]: Longer footnotes.
+
+  Indent paragraphs to include them in the footnote.
+
+  ```python
+  import numpy as np
+  ```
